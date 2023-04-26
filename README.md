@@ -15,7 +15,7 @@ This project rebuilds Google's beta XCFrameworks so they can be added as a depen
 
 ```swift
 dependencies: [
-  .package(url: "https://github.com/gomore/GoogleMaps-SPM.git", from: "7.2.0")
+  .package(url: "https://github.com/DmitriyGoncharIOS/GoogleMaps-SPM-2.git", from: "7.2.0")
 ]
 ```
 
